@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on UpSkilling
+- 🔭 I’m currently UpSkilling to expertise my knowledge 
 - 🌱 I’m currently learning Web Technologies
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help on how to create projects
