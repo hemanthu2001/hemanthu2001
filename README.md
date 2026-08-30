@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Web Technologies
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help on how to create projects
-- 📫 How to reach me: hemanthu14352892@gmail.com
+- 📫 How to reach me: ihemanthu.official@gmail.com
 - 📕 I love to read Novels and Manga
 
